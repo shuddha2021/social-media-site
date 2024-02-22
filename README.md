@@ -12,6 +12,8 @@ This project is a small social media website prototype built using React.js, Red
 - **Redux State Management**: Redux is used for state management, providing a predictable and centralized store for managing application state.
 - **Routing with React Router**: React Router is used for client-side routing, enabling navigation between different pages and components within the application.
 
+**Here is the nk for this site :** https://social-media-site-gold.vercel.app/
+
 ## Installation
 1. Clone the repository: `git clone https://github.com/your-username/social-media-site.git`
 2. Install dependencies for the frontend and backend:
