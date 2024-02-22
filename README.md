@@ -1,4 +1,4 @@
-# Social Media Site
+# Social Media Site Protptype
 
 ## Description
 This project is a small social media website prototype built using React.js, Redux, Node.js, and MongoDB. It provides basic functionality for user authentication, profile management, connections, and messaging, allowing users to sign up, log in, create profiles, connect with other users, and communicate via messages.
